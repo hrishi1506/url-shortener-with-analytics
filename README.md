@@ -62,10 +62,4 @@ npm start
 - Express.js (assumed)
 - Database (configured in connection.js)
 
-## Contributing
 
-Feel free to fork this repository and submit pull requests for any improvements.
-
-## License
-
-MIT
